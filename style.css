@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: blue;
+    background-color: rgba(0, 255, 179, 0.507);
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ h3 {
 }
 
 .btn {
-    background-color: #9f68e0;
+    background-color: #47ce36;
     color: white;
     border: 0;
     border-radius: 10px;
